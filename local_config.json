@@ -1,0 +1,18 @@
+{
+    "android": {
+        "device": "simulator", 
+        "profiles": {
+            "DEFAULT": {
+                "keystore": "", 
+                "keyalias": ""
+            }
+        }
+    }, 
+    "ios": {
+        "devicetypeid": "com.apple.CoreSimulator.SimDeviceType.iPhone-6", 
+        "profiles": {
+            "DEFAULT": {}
+        }
+    }, 
+    "general": {}
+}
