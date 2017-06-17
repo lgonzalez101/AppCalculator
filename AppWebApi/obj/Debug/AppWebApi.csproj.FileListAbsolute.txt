@@ -1,0 +1,112 @@
+c:\users\betty\documents\visual studio 2015\Projects\AppWebApi\AppWebApi\bin\ApplicationInsights.config
+c:\users\betty\documents\visual studio 2015\Projects\AppWebApi\AppWebApi\bin\roslyn\csc.exe
+c:\users\betty\documents\visual studio 2015\Projects\AppWebApi\AppWebApi\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\betty\documents\visual studio 2015\Projects\AppWebApi\AppWebApi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\betty\documents\visual studio 2015\Projects\AppWebApi\AppWebApi\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\betty\documents\visual studio 2015\Projects\AppWebApi\AppWebApi\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\betty\documents\visual studio 2015\Projects\AppWebApi\AppWebApi\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\betty\documents\visual studio 2015\Projects\AppWebApi\AppWebApi\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\betty\documents\visual studio 2015\Projects\AppWebApi\AppWebApi\bin\roslyn\System.Collections.Immutable.dll
+c:\users\betty\documents\visual studio 2015\Projects\AppWebApi\AppWebApi\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\betty\documents\visual studio 2015\Projects\AppWebApi\AppWebApi\bin\roslyn\vbc.exe
+c:\users\betty\documents\visual studio 2015\Projects\AppWebApi\AppWebApi\bin\roslyn\VBCSCompiler.exe
+c:\users\betty\documents\visual studio 2015\Projects\AppWebApi\AppWebApi\bin\roslyn\VBCSCompiler.exe.config
+c:\users\betty\documents\visual studio 2015\Projects\AppWebApi\AppWebApi\bin\AppWebApi.dll.config
+c:\users\betty\documents\visual studio 2015\Projects\AppWebApi\AppWebApi\bin\AppWebApi.dll
+c:\users\betty\documents\visual studio 2015\Projects\AppWebApi\AppWebApi\bin\AppWebApi.pdb
+c:\users\betty\documents\visual studio 2015\Projects\AppWebApi\AppWebApi\bin\Antlr3.Runtime.dll
+c:\users\betty\documents\visual studio 2015\Projects\AppWebApi\AppWebApi\bin\Json.NET.Web.dll
+c:\users\betty\documents\visual studio 2015\Projects\AppWebApi\AppWebApi\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\betty\documents\visual studio 2015\Projects\AppWebApi\AppWebApi\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\betty\documents\visual studio 2015\Projects\AppWebApi\AppWebApi\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\betty\documents\visual studio 2015\Projects\AppWebApi\AppWebApi\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\betty\documents\visual studio 2015\Projects\AppWebApi\AppWebApi\bin\Microsoft.AI.Web.dll
+c:\users\betty\documents\visual studio 2015\Projects\AppWebApi\AppWebApi\bin\Microsoft.AI.WindowsServer.dll
+c:\users\betty\documents\visual studio 2015\Projects\AppWebApi\AppWebApi\bin\Microsoft.ApplicationInsights.dll
+c:\users\betty\documents\visual studio 2015\Projects\AppWebApi\AppWebApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\betty\documents\visual studio 2015\Projects\AppWebApi\AppWebApi\bin\Microsoft.Web.Infrastructure.dll
+c:\users\betty\documents\visual studio 2015\Projects\AppWebApi\AppWebApi\bin\Newtonsoft.Json.dll
+c:\users\betty\documents\visual studio 2015\Projects\AppWebApi\AppWebApi\bin\System.Web.Helpers.dll
+c:\users\betty\documents\visual studio 2015\Projects\AppWebApi\AppWebApi\bin\System.Web.Mvc.dll
+c:\users\betty\documents\visual studio 2015\Projects\AppWebApi\AppWebApi\bin\System.Web.Optimization.dll
+c:\users\betty\documents\visual studio 2015\Projects\AppWebApi\AppWebApi\bin\System.Web.Razor.dll
+c:\users\betty\documents\visual studio 2015\Projects\AppWebApi\AppWebApi\bin\System.Web.WebPages.Deployment.dll
+c:\users\betty\documents\visual studio 2015\Projects\AppWebApi\AppWebApi\bin\System.Web.WebPages.dll
+c:\users\betty\documents\visual studio 2015\Projects\AppWebApi\AppWebApi\bin\System.Web.WebPages.Razor.dll
+c:\users\betty\documents\visual studio 2015\Projects\AppWebApi\AppWebApi\bin\WebGrease.dll
+c:\users\betty\documents\visual studio 2015\Projects\AppWebApi\AppWebApi\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\betty\documents\visual studio 2015\Projects\AppWebApi\AppWebApi\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\users\betty\documents\visual studio 2015\Projects\AppWebApi\AppWebApi\bin\Microsoft.AI.Web.xml
+c:\users\betty\documents\visual studio 2015\Projects\AppWebApi\AppWebApi\bin\Microsoft.AI.WindowsServer.xml
+c:\users\betty\documents\visual studio 2015\Projects\AppWebApi\AppWebApi\bin\Microsoft.ApplicationInsights.xml
+c:\users\betty\documents\visual studio 2015\Projects\AppWebApi\AppWebApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\betty\documents\visual studio 2015\Projects\AppWebApi\AppWebApi\bin\Newtonsoft.Json.xml
+c:\users\betty\documents\visual studio 2015\Projects\AppWebApi\AppWebApi\bin\System.Web.Helpers.xml
+c:\users\betty\documents\visual studio 2015\Projects\AppWebApi\AppWebApi\bin\System.Web.Mvc.xml
+c:\users\betty\documents\visual studio 2015\Projects\AppWebApi\AppWebApi\bin\System.Web.Optimization.xml
+c:\users\betty\documents\visual studio 2015\Projects\AppWebApi\AppWebApi\bin\System.Web.Razor.xml
+c:\users\betty\documents\visual studio 2015\Projects\AppWebApi\AppWebApi\bin\System.Web.WebPages.xml
+c:\users\betty\documents\visual studio 2015\Projects\AppWebApi\AppWebApi\bin\System.Web.WebPages.Deployment.xml
+c:\users\betty\documents\visual studio 2015\Projects\AppWebApi\AppWebApi\bin\System.Web.WebPages.Razor.xml
+c:\users\betty\documents\visual studio 2015\Projects\AppWebApi\AppWebApi\bin\Antlr3.Runtime.pdb
+c:\users\betty\documents\visual studio 2015\Projects\AppWebApi\AppWebApi\obj\Debug\AppWebApi.csprojResolveAssemblyReference.cache
+c:\users\betty\documents\visual studio 2015\Projects\AppWebApi\AppWebApi\obj\Debug\AppWebApi.dll
+c:\users\betty\documents\visual studio 2015\Projects\AppWebApi\AppWebApi\obj\Debug\AppWebApi.pdb
+c:\users\betty\documents\visual studio 2015\Projects\AppWebApi\AppWebApi\bin\RestSharp.dll
+c:\users\betty\documents\visual studio 2015\Projects\AppWebApi\AppWebApi\bin\RestSharp.xml
+C:\Users\betty\Documents\GitHub\AppCalculator\AppWebApi\bin\ApplicationInsights.config
+C:\Users\betty\Documents\GitHub\AppCalculator\AppWebApi\bin\roslyn\csc.exe
+C:\Users\betty\Documents\GitHub\AppCalculator\AppWebApi\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\betty\Documents\GitHub\AppCalculator\AppWebApi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\betty\Documents\GitHub\AppCalculator\AppWebApi\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\betty\Documents\GitHub\AppCalculator\AppWebApi\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\betty\Documents\GitHub\AppCalculator\AppWebApi\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\betty\Documents\GitHub\AppCalculator\AppWebApi\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\betty\Documents\GitHub\AppCalculator\AppWebApi\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\betty\Documents\GitHub\AppCalculator\AppWebApi\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\betty\Documents\GitHub\AppCalculator\AppWebApi\bin\roslyn\vbc.exe
+C:\Users\betty\Documents\GitHub\AppCalculator\AppWebApi\bin\roslyn\VBCSCompiler.exe
+C:\Users\betty\Documents\GitHub\AppCalculator\AppWebApi\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\betty\Documents\GitHub\AppCalculator\AppWebApi\bin\AppWebApi.dll.config
+C:\Users\betty\Documents\GitHub\AppCalculator\AppWebApi\bin\AppWebApi.dll
+C:\Users\betty\Documents\GitHub\AppCalculator\AppWebApi\bin\AppWebApi.pdb
+C:\Users\betty\Documents\GitHub\AppCalculator\AppWebApi\bin\Antlr3.Runtime.dll
+C:\Users\betty\Documents\GitHub\AppCalculator\AppWebApi\bin\Json.NET.Web.dll
+C:\Users\betty\Documents\GitHub\AppCalculator\AppWebApi\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\betty\Documents\GitHub\AppCalculator\AppWebApi\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\betty\Documents\GitHub\AppCalculator\AppWebApi\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\betty\Documents\GitHub\AppCalculator\AppWebApi\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\betty\Documents\GitHub\AppCalculator\AppWebApi\bin\Microsoft.AI.Web.dll
+C:\Users\betty\Documents\GitHub\AppCalculator\AppWebApi\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\betty\Documents\GitHub\AppCalculator\AppWebApi\bin\Microsoft.ApplicationInsights.dll
+C:\Users\betty\Documents\GitHub\AppCalculator\AppWebApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\betty\Documents\GitHub\AppCalculator\AppWebApi\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\betty\Documents\GitHub\AppCalculator\AppWebApi\bin\Newtonsoft.Json.dll
+C:\Users\betty\Documents\GitHub\AppCalculator\AppWebApi\bin\RestSharp.dll
+C:\Users\betty\Documents\GitHub\AppCalculator\AppWebApi\bin\System.Web.Helpers.dll
+C:\Users\betty\Documents\GitHub\AppCalculator\AppWebApi\bin\System.Web.Mvc.dll
+C:\Users\betty\Documents\GitHub\AppCalculator\AppWebApi\bin\System.Web.Optimization.dll
+C:\Users\betty\Documents\GitHub\AppCalculator\AppWebApi\bin\System.Web.Razor.dll
+C:\Users\betty\Documents\GitHub\AppCalculator\AppWebApi\bin\System.Web.WebPages.Deployment.dll
+C:\Users\betty\Documents\GitHub\AppCalculator\AppWebApi\bin\System.Web.WebPages.dll
+C:\Users\betty\Documents\GitHub\AppCalculator\AppWebApi\bin\System.Web.WebPages.Razor.dll
+C:\Users\betty\Documents\GitHub\AppCalculator\AppWebApi\bin\WebGrease.dll
+C:\Users\betty\Documents\GitHub\AppCalculator\AppWebApi\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\betty\Documents\GitHub\AppCalculator\AppWebApi\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\betty\Documents\GitHub\AppCalculator\AppWebApi\bin\Microsoft.AI.Web.xml
+C:\Users\betty\Documents\GitHub\AppCalculator\AppWebApi\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\betty\Documents\GitHub\AppCalculator\AppWebApi\bin\Microsoft.ApplicationInsights.xml
+C:\Users\betty\Documents\GitHub\AppCalculator\AppWebApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\betty\Documents\GitHub\AppCalculator\AppWebApi\bin\Newtonsoft.Json.xml
+C:\Users\betty\Documents\GitHub\AppCalculator\AppWebApi\bin\RestSharp.xml
+C:\Users\betty\Documents\GitHub\AppCalculator\AppWebApi\bin\System.Web.Helpers.xml
+C:\Users\betty\Documents\GitHub\AppCalculator\AppWebApi\bin\System.Web.Mvc.xml
+C:\Users\betty\Documents\GitHub\AppCalculator\AppWebApi\bin\System.Web.Optimization.xml
+C:\Users\betty\Documents\GitHub\AppCalculator\AppWebApi\bin\System.Web.Razor.xml
+C:\Users\betty\Documents\GitHub\AppCalculator\AppWebApi\bin\System.Web.WebPages.xml
+C:\Users\betty\Documents\GitHub\AppCalculator\AppWebApi\bin\System.Web.WebPages.Deployment.xml
+C:\Users\betty\Documents\GitHub\AppCalculator\AppWebApi\bin\System.Web.WebPages.Razor.xml
+C:\Users\betty\Documents\GitHub\AppCalculator\AppWebApi\bin\Antlr3.Runtime.pdb
+C:\Users\betty\Documents\GitHub\AppCalculator\AppWebApi\obj\Debug\AppWebApi.csprojResolveAssemblyReference.cache
+C:\Users\betty\Documents\GitHub\AppCalculator\AppWebApi\obj\Debug\AppWebApi.dll
+C:\Users\betty\Documents\GitHub\AppCalculator\AppWebApi\obj\Debug\AppWebApi.pdb
