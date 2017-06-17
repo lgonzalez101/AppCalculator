@@ -16,12 +16,12 @@ namespace AppWebApi.Controllers
     {
         public ActionResult Index()
         {
-            var _client = new RestClient { BaseUrl = new Uri("http://localhost:61554/") };
-            var request = new RestRequest("api/values", Method.GET) { RequestFormat = DataFormat.Json };
-            var response = _client.Execute<ResultadoViewModel>(request);
-            if (response.Data == null)
-                throw new Exception(response.ErrorMessage);          
-            return View(response.Data);
+            //var _client = new RestClient { BaseUrl = new Uri("http://localhost:61554/") };
+            //var request = new RestRequest("api/values", Method.GET) { RequestFormat = DataFormat.Json };
+            //var response = _client.Execute<ResultadoViewModel>(request);
+            //if (response.Data == null)
+            //    throw new Exception(response.ErrorMessage);          
+            return View();
         }
 
         [HttpGet]
