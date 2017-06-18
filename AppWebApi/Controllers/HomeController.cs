@@ -27,7 +27,7 @@ namespace AppWebApi.Controllers
         [HttpGet]
         public ActionResult Calcular(ResultadoViewModel model)
         {
-            var  _client = new RestClient { BaseUrl = new Uri("http://localhost:61554/") };
+            var  _client = new RestClient { BaseUrl = new Uri("http://apiservicecalculator.apphb.com/") };
             var request = new RestRequest("api/values", Method.POST) { RequestFormat = DataFormat.Json };
             request.AddBody(model);
             var response = _client.Execute<ResultadoViewModel>(request);
